@@ -1,4 +1,4 @@
-# STUFFS
+# PFX DISCORD NAME CHECKER
 Free Discord Name Checker – Tebex Package Description 🔍💬
 
 Easily check if your Discord name is already in use or available for roleplay requirements with this Free Discord Name Checker tool! Perfect for servers enforcing character names to match Discord usernames.
